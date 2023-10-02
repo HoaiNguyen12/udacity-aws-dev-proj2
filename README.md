@@ -22,3 +22,7 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 ## License
 
 [License](LICENSE.txt)
+
+
+## valid GET requests:
+http://localhost:8082/filteredimage?image_url=https://pbs.twimg.com/media/FTZo2o0WUAAyVoG?format=jpg&name=large
